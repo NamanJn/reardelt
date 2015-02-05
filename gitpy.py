@@ -12,7 +12,12 @@ os.chdir(selfdir);
 # start here..
 samps = "This is sparta";
 sampl = ["Elon","Musk","Steve","Jurvetson"];
-sampd = {"Python":"is Great","Tesla":"Motors"};
+sampd = { "Python" :"is Great", "Tesla": "Motors" };
+
+# pdb is a good python module.
+import pdb;
+
+import scipy
 
 
 
